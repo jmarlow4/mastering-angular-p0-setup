@@ -1,5 +1,5 @@
 # 0 - Setup
-## 4 - Setting Up VS Code's Terminal
+## 5 - Setting Up VS Code's Terminal
 Replacing the cmd with something, you know...good
 
 * Open up your settings [ ctrl/cmd + , ]
