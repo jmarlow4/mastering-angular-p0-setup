@@ -1,6 +1,5 @@
 # 0 - Setup
 ## 4 - VS Code
-Integrated Development Environment - the text editor that you write code with
 
 * "Explorer" gives you access to project folder structure
     * Notice how modifying files, but not saving them makes little "notifications" pop up
