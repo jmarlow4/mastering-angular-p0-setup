@@ -45,6 +45,6 @@
 
 ### Styling
 
-* [blulaco-dark](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark)
+* [bluloco-dark](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark)
 
 * [material-icon-theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
